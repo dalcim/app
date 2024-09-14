@@ -1,9 +1,17 @@
-// hello world
-const mensagem = "vasco"
-
-
-{
-    const mensagem = 1
-    console.log(mensagem)
+// arrays, objetos
+let meta = {
+    value: "ler um livo por mes",
+    adress: 2,
+    checked: false,
+    log: (info) => {
+        console.log(info)
+    }
 }
-console.log(mensagem)
+
+meta.value ="Não é mais ler um livro"
+meta.log(meta.value)
+
+// function // arrow function
+// const criarMeta = () => {}
+
+// function criarMeta() {}
