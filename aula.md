@@ -9,6 +9,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
  Comentários
  Declaração de variáveis (const, let)
+ Operadores (atribuição, concatenaçã, matemáticos, lógicos)
  Tipos de dados (string, number, boolean)
  Estrutura de dados (functions, object, array)
  Controle de fluxo (if/else)
@@ -34,7 +35,8 @@ Boolean: true, false
 # Operadores
 
 Operadores de atribuição de valor: =
-Operador de concatenação +
+Operador de concatenação: +
+Operadores de comparação: == =! <= >= < >
 
 ## Estrutura de dados:
 
@@ -61,6 +63,7 @@ while
 # Condicionais
 
 swtich
+if/else
 
 ## Módulos em Node.js
 
